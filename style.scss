@@ -1,0 +1,22 @@
+$font-stack:  Helvetica, sans-serif;
+$primary-color: #f19d9d;
+$pr1imary-color: #85ecfa;
+
+body {
+  font: 100% $font-stack;
+  background-color: $primary-color;
+  text-align: center;
+
+}
+.pizza{
+  height: 150px;
+  width: 150px;
+  padding: 50px;
+  background-color:$pr1imary-color;
+  margin:20px;
+  display: inline-block;
+}
+.colom1{
+  
+  text-align: center;
+}
