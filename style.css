@@ -28,3 +28,98 @@ h1{
 .colom1 {
   text-align: center;
 }/*# sourceMappingURL=style.css.map */
+.restaurant{
+
+}
+.cook{
+  background-image: url("https://fikiwiki.com/uploads/posts/2022-02/thumbs/1644906671_2-fikiwiki-com-p-prikolnie-kartinki-pro-povarov-2.jpg");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+  background-color: #85ecfa;
+  margin: 20px;
+  display: inline-block;
+}
+.cook{
+  background-image: url("https://fikiwiki.com/uploads/posts/2022-02/thumbs/1644906671_2-fikiwiki-com-p-prikolnie-kartinki-pro-povarov-2.jpg");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+  background-color: #85ecfa;
+  margin: 20px;
+  display: inline-block;
+}
+.cook1{
+  background-image: url("https://fikiwiki.com/uploads/posts/2022-02/thumbs/1644906639_4-fikiwiki-com-p-prikolnie-kartinki-pro-povarov-4.jpg");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+  background-color: #85ecfa;
+  margin: 20px;
+  display: inline-block;
+}
+.cook2{
+  background-image: url("https://fikiwiki.com/uploads/posts/2022-02/thumbs/1644906632_8-fikiwiki-com-p-prikolnie-kartinki-pro-povarov-8.jpg");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+  background-color: #85ecfa;
+  margin: 20px;
+  display: inline-block;
+}
+.chair{
+  background-image: url("https://fikiwiki.com/uploads/posts/2022-02/thumbs/1644906632_8-fikiwiki-com-p-prikolnie-kartinki-pro-povarov-8.jpg");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+  background-color: #85ecfa;
+  margin: 20px;
+  display: inline-block;
+}
+.door{
+  background-image: url("https://cdnn21.img.ria.ru/images/98976/61/989766135_0:105:2000:1230_600x0_80_0_0_b7a15601fc51de5b8c0db1c1a1c4ae62.jpg.webp");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+}
+.sofa{
+  background-image: url("https://cdnn21.img.ria.ru/images/98976/61/989766135_0:105:2000:1230_600x0_80_0_0_b7a15601fc51de5b8c0db1c1a1c4ae62.jpg.webp");
+  background-size:100%;
+  height: 100px;
+  width: 250px;
+  padding: 50px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
