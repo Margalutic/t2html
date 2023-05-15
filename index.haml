@@ -16,3 +16,20 @@
     .colom1
       .pizza
       .pizza
+.restaurant
+  %h1 Наш ресторанчик
+  %h3 Наши повора
+  .colom1
+    .cook
+    .cook1
+    .cook2
+  .colom1
+    %h3 Регистрация
+    %form
+      %label(for="username") Имя пользователя:
+      %input#username(name="username" required="" type="text")/
+      %label(for="email") Email:
+      %input#email(name="email" required="" type="email")/
+      %label(for="password") Пароль:
+      %input#password(name="password" required="" type="password")/
+      %input(type="submit" value="Зарегистрироваться")/
